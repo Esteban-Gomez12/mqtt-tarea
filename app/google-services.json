@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "967173327189",
+    "firebase_url": "https://fir-tarea-201c3-default-rtdb.firebaseio.com",
+    "project_id": "fir-tarea-201c3",
+    "storage_bucket": "fir-tarea-201c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967173327189:android:ccc7845aec377d182207dc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8fIBBnHrziEp2mzvbAna5cWtvq_3Yoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
